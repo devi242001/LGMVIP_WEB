@@ -1,0 +1,43 @@
+table{
+	margin-top: 20px;
+	text-align: center;
+	border: 10px;
+	border-color: solid black;
+	border-collapse: collapse;
+}
+
+#show td{
+	padding: 13px;
+	border: 1px;
+	border-style: solid;
+	border-color: blue;
+	background-color: lightskyblue;
+}
+
+#btna td input{
+	margin-top: 5%;
+	padding: 10px;
+	border: none;
+	border-radius: 4px;
+	cursor: pointer;
+	outline: none;
+	background-color:lightskyblue;
+	
+	text-transform: capitalize;
+
+}
+
+
+#show th{
+	padding: 13px;
+	border: 1px;
+	border-style: solid;
+	border-color: blue;
+	background-color:lightskyblue
+    
+  
+}
+
+body{
+	background-color: lightpink;
+}
